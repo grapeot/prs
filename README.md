@@ -1,5 +1,7 @@
 This is a page for our casual paper reading seminars. You can download slides for our historical and planning seminars.
 
+(Please note the download link on this page will not give you any slides. Please go to each seminar's page to download the slides.)
+
 ###[Latest seminar](/grapeot/prs_latest) (planning)
 
  * R. Tron and R. Vidal, "Distributed Computer Vision Algorithms Through Distributed Averaging," IEEE Conference on Computer Vision and Pattern Recognition, 2011.
