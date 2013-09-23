@@ -2,14 +2,21 @@ This is a page for our casual paper reading seminars. You can download slides fo
 
 (Please note the download link on this page will not give you any slides. Please go to each seminar's page to download the slides.)
 
-###[Latest seminar](http://grapeot.github.com/prs_latest/) (planning)
+## Upcoming semninars
+
+###[20130923](http://grapeot.github.com/prs_20130923/)
+
+* Fernando de la Torre et. al. Temporal Segmentation of Facial Behavior, ICCV 2007
+* Minh Hoai, Fernando de la Torre, Maximum Margin Temporal Clustering, AISTATS 2012
+ 
+## Past seminars
+
+Click the date to enter the webpage for each seminar.
+
+###[20130901](http://grapeot.github.com/prs_20130901/)
 
  * R. Tron and R. Vidal, "Distributed Computer Vision Algorithms Through Distributed Averaging," IEEE Conference on Computer Vision and Pattern Recognition, 2011.
  * Simon Korman, Shai Avidan, "Coherency Sensitive Hashing, " ICCV, 2011
-
-## Historical seminars
-
-Click the date to enter the webpage for each seminar.
 
 ###[20121003](http://grapeot.github.com/prs121003/)
 
