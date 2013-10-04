@@ -3,15 +3,23 @@ This is a page for our casual paper reading seminars. You can download slides fo
 (Please note the download link on this page will not give you any slides. Please go to each seminar's page to download the slides.)
 
 ## Upcoming semninars
-
-###[20130923](http://grapeot.github.com/prs20130923/)
-
-* Fernando de la Torre et. al. Temporal Segmentation of Facial Behavior, ICCV 2007
-* Minh Hoai, Fernando de la Torre, Maximum Margin Temporal Clustering, AISTATS 2012
  
 ## Past seminars
 
 Click the date to enter the webpage for each seminar.
+
+###20130930
+
+[Slides](https://github.com/mariru/ReadingSeminar/blob/master/readingSeminar2.pdf?raw=true)(by Maja)
+
+* [Fox et. al. Nonparametric Bayesian Learning of Switching
+Linear Dynamical Systems, NIPS 08](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2008_0312.pdf), TSP 10
+* [Brand, Discovery and Segmentation of Activities in Video](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=868685), PAMI, 2000
+    
+###[20130923](http://grapeot.github.com/prs20130923/)
+
+* Fernando de la Torre et. al. Temporal Segmentation of Facial Behavior, ICCV 2007
+* Minh Hoai, Fernando de la Torre, Maximum Margin Temporal Clustering, AISTATS 2012
 
 ###[20130901](http://grapeot.github.com/prs20130901/)
 
@@ -24,7 +32,7 @@ Click the date to enter the webpage for each seminar.
 
 ###[20120910](http://grapeot.github.com/prs120910/)
 
- * B. Yao, A. Khosla, and L. Fei-Fei, ¡°Combining randomization and discrimination for fine-grained image categorization,¡± Cvpr 2011, pp. 1577¨C1584, Jun. 2011.
+ * B. Yao, A. Khosla, and L. Fei-Fei, "Combining randomization and discrimination for fine-grained image categorization," Cvpr 2011, pp. 1577¨C1584, Jun. 2011.
  * Alexe, B., Deselares, T. and Ferrari, V. "Measuring the objectness of image windows," PAMI 2012. 
 
 ###[20120906](http://grapeot.github.com/prs120906/)
